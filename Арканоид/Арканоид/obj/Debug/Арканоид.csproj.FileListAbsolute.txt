@@ -1,0 +1,12 @@
+C:\Users\Vector\source\repos\Арканоид\Арканоид\bin\Debug\Арканоид.exe.config
+C:\Users\Vector\source\repos\Арканоид\Арканоид\bin\Debug\Арканоид.exe
+C:\Users\Vector\source\repos\Арканоид\Арканоид\bin\Debug\Арканоид.pdb
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.csprojAssemblyReference.cache
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.MenuForm.resources
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.Properties.Resources.resources
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.csproj.GenerateResource.cache
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.exe
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.pdb
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.GameForm.resources
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.WinOrLoseForm.resources
+C:\Users\Vector\source\repos\Арканоид\Арканоид\obj\Debug\Арканоид.csproj.CoreCompileInputs.cache
